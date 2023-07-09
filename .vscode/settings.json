@@ -6,6 +6,13 @@
         "css": "css",
         "*.astro": "astro",
         "iostream": "cpp",
-        "fstream": "cpp"
+        "fstream": "cpp",
+        "source_location": "cpp",
+        "ostream": "cpp",
+        "vector": "cpp",
+        "string": "cpp",
+        "string_view": "cpp",
+        "unordered_set": "cpp",
+        "random": "cpp"
     }
 }
